@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<board>
+	<piece id="ArenaColiseo" default="true">ArenaColiseo.png</piece>
+	<piece id="PublicoDer">PublicoDer.png</piece>
+	<piece id="PublicoIzq">PublicoIzq.png</piece>
+	<piece id="Reja">Reja.png</piece>
+	<piece id="Tronco">Tronco.png</piece>
+	
+	<!-- Coordenadas Iniciales del Jugador de la Derecha -->
+	<coorder x="19" y="7" />
+	<coorder x="18" y="5" />
+	<coorder x="18" y="9" />
+	<coorder x="17" y="3" />
+	<coorder x="17" y="11" />
+	
+	<!-- Coordenadas Iniciales del Jugador de la Izquierda -->
+	<coorizq x="5" y="7" />
+	<coorizq x="6" y="5" />
+	<coorizq x="6" y="9" />
+	<coorizq x="7" y="3" />
+	<coorizq x="7" y="11" />
+	
+	<!-- Partes de PublicoDerecha del Terreno -->
+	<box x="24" y="0" id="PublicoDer" />
+	<box x="24" y="1" id="PublicoDer" />
+	<box x="24" y="2" id="PublicoDer" />
+	<box x="24" y="3" id="PublicoDer" />
+	<box x="24" y="4" id="PublicoDer" />
+	<box x="24" y="5" id="PublicoDer" />
+	<box x="24" y="6" id="PublicoDer" />
+	<box x="24" y="7" id="PublicoDer" />
+	<box x="24" y="8" id="PublicoDer" />
+	<box x="24" y="9" id="PublicoDer" />
+	<box x="24" y="10" id="PublicoDer" />
+	<box x="24" y="11" id="PublicoDer" />
+	<box x="24" y="12" id="PublicoDer" />
+	<box x="24" y="13" id="PublicoDer" />
+	<box x="24" y="14" id="PublicoDer" />
+	<box x="23" y="0" id="PublicoDer" />
+	<box x="23" y="1" id="PublicoDer" />
+	<box x="23" y="2" id="PublicoDer" />
+	<box x="23" y="3" id="PublicoDer" />
+	<box x="23" y="4" id="PublicoDer" />
+	<box x="23" y="5" id="PublicoDer" />
+	<box x="23" y="6" id="PublicoDer" />
+	<box x="23" y="7" id="PublicoDer" />
+	<box x="23" y="8" id="PublicoDer" />
+	<box x="23" y="9" id="PublicoDer" />
+	<box x="23" y="10" id="PublicoDer" />
+	<box x="23" y="11" id="PublicoDer" />
+	<box x="23" y="12" id="PublicoDer" />
+	<box x="23" y="13" id="PublicoDer" />
+	<box x="23" y="14" id="PublicoDer" />
+	<box x="22" y="0" id="PublicoDer" />
+	<box x="22" y="1" id="PublicoDer" />
+	<box x="22" y="2" id="PublicoDer" />
+	<box x="22" y="3" id="PublicoDer" />
+	<box x="22" y="4" id="PublicoDer" />
+	<box x="22" y="5" id="PublicoDer" />
+	<box x="22" y="6" id="PublicoDer" />
+	<box x="22" y="7" id="PublicoDer" />
+	<box x="22" y="8" id="PublicoDer" />
+	<box x="22" y="9" id="PublicoDer" />
+	<box x="22" y="10" id="PublicoDer" />
+	<box x="22" y="11" id="PublicoDer" />
+	<box x="22" y="12" id="PublicoDer" />
+	<box x="22" y="13" id="PublicoDer" />
+	<box x="22" y="14" id="PublicoDer" />
+	<box x="21" y="0" id="PublicoDer" />
+	<box x="21" y="1" id="PublicoDer" />
+	<box x="21" y="2" id="PublicoDer" />
+	<box x="21" y="3" id="PublicoDer" />
+	<box x="21" y="4" id="PublicoDer" />
+	<box x="21" y="10" id="PublicoDer" />
+	<box x="21" y="11" id="PublicoDer" />
+	<box x="21" y="12" id="PublicoDer" />
+	<box x="21" y="13" id="PublicoDer" />
+	<box x="21" y="14" id="PublicoDer" />
+	<box x="20" y="0" id="PublicoDer" />
+	<box x="20" y="1" id="PublicoDer" />
+	<box x="20" y="2" id="PublicoDer" />
+	<box x="20" y="12" id="PublicoDer" />
+	<box x="20" y="13" id="PublicoDer" />
+	<box x="20" y="14" id="PublicoDer" />
+	<box x="19" y="0" id="PublicoDer" />
+	<box x="19" y="14" id="PublicoDer" />
+	
+	<!-- Partes de PublicoIzquierda del Terreno -->
+	<box x="0" y="0" id="PublicoIzq" />
+	<box x="0" y="1" id="PublicoIzq" />
+	<box x="0" y="2" id="PublicoIzq" />
+	<box x="0" y="3" id="PublicoIzq" />
+	<box x="0" y="4" id="PublicoIzq" />
+	<box x="0" y="5" id="PublicoIzq" />
+	<box x="0" y="6" id="PublicoIzq" />
+	<box x="0" y="7" id="PublicoIzq" />
+	<box x="0" y="8" id="PublicoIzq" />
+	<box x="0" y="9" id="PublicoIzq" />
+	<box x="0" y="10" id="PublicoIzq" />
+	<box x="0" y="11" id="PublicoIzq" />
+	<box x="0" y="12" id="PublicoIzq" />
+	<box x="0" y="13" id="PublicoIzq" />
+	<box x="0" y="14" id="PublicoIzq" />
+	<box x="1" y="0" id="PublicoIzq" />
+	<box x="1" y="1" id="PublicoIzq" />
+	<box x="1" y="2" id="PublicoIzq" />
+	<box x="1" y="3" id="PublicoIzq" />
+	<box x="1" y="4" id="PublicoIzq" />
+	<box x="1" y="5" id="PublicoIzq" />
+	<box x="1" y="6" id="PublicoIzq" />
+	<box x="1" y="7" id="PublicoIzq" />
+	<box x="1" y="8" id="PublicoIzq" />
+	<box x="1" y="9" id="PublicoIzq" />
+	<box x="1" y="10" id="PublicoIzq" />
+	<box x="1" y="11" id="PublicoIzq" />
+	<box x="1" y="12" id="PublicoIzq" />
+	<box x="1" y="13" id="PublicoIzq" />
+	<box x="1" y="14" id="PublicoIzq" />
+	<box x="2" y="0" id="PublicoIzq" />
+	<box x="2" y="1" id="PublicoIzq" />
+	<box x="2" y="2" id="PublicoIzq" />
+	<box x="2" y="3" id="PublicoIzq" />
+	<box x="2" y="4" id="PublicoIzq" />
+	<box x="2" y="5" id="PublicoIzq" />
+	<box x="2" y="6" id="PublicoIzq" />
+	<box x="2" y="7" id="PublicoIzq" />
+	<box x="2" y="8" id="PublicoIzq" />
+	<box x="2" y="9" id="PublicoIzq" />
+	<box x="2" y="10" id="PublicoIzq" />
+	<box x="2" y="11" id="PublicoIzq" />
+	<box x="2" y="12" id="PublicoIzq" />
+	<box x="2" y="13" id="PublicoIzq" />
+	<box x="2" y="14" id="PublicoIzq" />
+	<box x="3" y="0" id="PublicoIzq" />
+	<box x="3" y="1" id="PublicoIzq" />
+	<box x="3" y="2" id="PublicoIzq" />
+	<box x="3" y="3" id="PublicoIzq" />
+	<box x="3" y="4" id="PublicoIzq" />
+	<box x="3" y="10" id="PublicoIzq" />
+	<box x="3" y="11" id="PublicoIzq" />
+	<box x="3" y="12" id="PublicoIzq" />
+	<box x="3" y="13" id="PublicoIzq" />
+	<box x="3" y="14" id="PublicoIzq" />
+	<box x="4" y="0" id="PublicoIzq" />
+	<box x="4" y="1" id="PublicoIzq" />
+	<box x="4" y="2" id="PublicoIzq" />
+	<box x="4" y="12" id="PublicoIzq" />
+	<box x="4" y="13" id="PublicoIzq" />
+	<box x="4" y="14" id="PublicoIzq" />
+	<box x="5" y="0" id="PublicoIzq" />
+	<box x="5" y="14" id="PublicoIzq" />
+	
+	<!-- Partes de Reja del Terreno -->
+	<!-- Reja Izquierda -->
+	<box x="3" y="5" id="Reja" />
+	<box x="3" y="6" id="Reja" />
+	<box x="3" y="7" id="Reja" />
+	<box x="3" y="8" id="Reja" />
+	<box x="3" y="9" id="Reja" />
+	<box x="4" y="3" id="Reja" />
+	<box x="4" y="4" id="Reja" />
+	<box x="4" y="10" id="Reja" />
+	<box x="4" y="11" id="Reja" />
+	<box x="5" y="1" id="Reja" />
+	<box x="5" y="2" id="Reja" />
+	<box x="5" y="12" id="Reja" />
+	<box x="5" y="13" id="Reja" />
+	<box x="6" y="0" id="Reja" />
+	<box x="6" y="14" id="Reja" />
+	<!-- Reja Derecha -->
+	<box x="21" y="5" id="Reja" />
+	<box x="21" y="6" id="Reja" />
+	<box x="21" y="7" id="Reja" />
+	<box x="21" y="8" id="Reja" />
+	<box x="21" y="9" id="Reja" />
+	<box x="20" y="3" id="Reja" />
+	<box x="20" y="4" id="Reja" />
+	<box x="20" y="10" id="Reja" />
+	<box x="20" y="11" id="Reja" />
+	<box x="19" y="1" id="Reja" />
+	<box x="19" y="2" id="Reja" />
+	<box x="19" y="12" id="Reja" />
+	<box x="19" y="13" id="Reja" />
+	<box x="18" y="0" id="Reja" />
+	<box x="18" y="14" id="Reja" />
+	
+	<!-- Partes de Tronco del Terreno -->
+	<box x="12" y="3" id="Tronco" />
+	<box x="12" y="7" id="Tronco" />
+	<box x="12" y="11" id="Tronco" />
+</board>

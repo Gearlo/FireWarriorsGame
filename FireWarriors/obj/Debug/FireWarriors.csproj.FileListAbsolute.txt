@@ -1,0 +1,267 @@
+H:\Trabajos\Proyectos\IS-410_Programacion orientada a objetos\Proyecto Final\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe.config
+H:\Trabajos\Proyectos\IS-410_Programacion orientada a objetos\Proyecto Final\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csprojResolveAssemblyReference.cache
+H:\Trabajos\Proyectos\IS-410_Programacion orientada a objetos\Proyecto Final\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+H:\Trabajos\Proyectos\IS-410_Programacion orientada a objetos\Proyecto Final\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+H:\Trabajos\Proyectos\IS-410_Programacion orientada a objetos\Proyecto Final\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+H:\Trabajos\Proyectos\IS-410_Programacion orientada a objetos\Proyecto Final\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe
+H:\Trabajos\Proyectos\IS-410_Programacion orientada a objetos\Proyecto Final\FireWarriors\FireWarriors\bin\Debug\FireWarriors.pdb
+H:\Trabajos\Proyectos\IS-410_Programacion orientada a objetos\Proyecto Final\FireWarriors\FireWarriors\obj\Debug\FireWarriors.exe
+H:\Trabajos\Proyectos\IS-410_Programacion orientada a objetos\Proyecto Final\FireWarriors\FireWarriors\obj\Debug\FireWarriors.pdb
+E:\POO-Proyecto final\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe.config
+E:\POO-Proyecto final\FireWarriors\FireWarriors\obj\Debug\FireWarriors.exe
+E:\POO-Proyecto final\FireWarriors\FireWarriors\obj\Debug\FireWarriors.pdb
+E:\POO-Proyecto final\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe
+E:\POO-Proyecto final\FireWarriors\FireWarriors\bin\Debug\FireWarriors.pdb
+E:\POO-Proyecto final\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csprojResolveAssemblyReference.cache
+E:\POO-Proyecto final\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+E:\POO-Proyecto final\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+E:\POO-Proyecto final\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+K:\POO-Proyecto final\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe.config
+K:\POO-Proyecto final\FireWarriors\FireWarriors\obj\Debug\FireWarriors.exe
+K:\POO-Proyecto final\FireWarriors\FireWarriors\obj\Debug\FireWarriors.pdb
+K:\POO-Proyecto final\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csprojResolveAssemblyReference.cache
+K:\POO-Proyecto final\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+K:\POO-Proyecto final\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+K:\POO-Proyecto final\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+K:\POO-Proyecto final\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe
+K:\POO-Proyecto final\FireWarriors\FireWarriors\bin\Debug\FireWarriors.pdb
+C:\Users\Ariel\Desktop\POO-Proyecto final\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\Ariel\Desktop\POO-Proyecto final\FireWarriors\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\Ariel\Desktop\POO-Proyecto final\FireWarriors\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\Ariel\Desktop\POO-Proyecto final\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe
+C:\Users\Ariel\Desktop\POO-Proyecto final\FireWarriors\FireWarriors\bin\Debug\FireWarriors.pdb
+C:\Users\Ariel\Desktop\POO-Proyecto final\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csprojResolveAssemblyReference.cache
+C:\Users\Ariel\Desktop\POO-Proyecto final\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+C:\Users\Ariel\Desktop\POO-Proyecto final\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+C:\Users\Ariel\Desktop\POO-Proyecto final\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+C:\Users\NUEVO\Dropbox\Carpeta Juego POO\Gerardo\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\NUEVO\Dropbox\Carpeta Juego POO\Gerardo\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe
+C:\Users\NUEVO\Dropbox\Carpeta Juego POO\Gerardo\FireWarriors\FireWarriors\bin\Debug\FireWarriors.pdb
+C:\Users\NUEVO\Dropbox\Carpeta Juego POO\Gerardo\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csprojResolveAssemblyReference.cache
+C:\Users\NUEVO\Dropbox\Carpeta Juego POO\Gerardo\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+C:\Users\NUEVO\Dropbox\Carpeta Juego POO\Gerardo\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+C:\Users\NUEVO\Dropbox\Carpeta Juego POO\Gerardo\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+C:\Users\NUEVO\Dropbox\Carpeta Juego POO\Gerardo\FireWarriors\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\NUEVO\Dropbox\Carpeta Juego POO\Gerardo\FireWarriors\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Gerardo\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Gerardo\FireWarriors\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Gerardo\FireWarriors\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Gerardo\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Gerardo\FireWarriors\FireWarriors\bin\Debug\FireWarriors.pdb
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Gerardo\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Gerardo\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Gerardo\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Gerardo\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csprojResolveAssemblyReference.cache
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Gerardo\FireWarriors\FireWarriors\obj\Debug\FireWarriors.frmEsperandoConexion.resources
+C:\Users\NUEVO\Dropbox\Carpeta Juego POO\Gerardo\FireWarriors\FireWarriors\obj\Debug\FireWarriors.frmEsperandoConexion.resources
+C:\Users\Sergio Gutierrez\Documents\Visual Studio 2012\Projects\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\Sergio Gutierrez\Documents\Visual Studio 2012\Projects\FireWarriors\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\Sergio Gutierrez\Documents\Visual Studio 2012\Projects\FireWarriors\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\Sergio Gutierrez\Documents\Visual Studio 2012\Projects\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe
+C:\Users\Sergio Gutierrez\Documents\Visual Studio 2012\Projects\FireWarriors\FireWarriors\bin\Debug\FireWarriors.pdb
+C:\Users\Sergio Gutierrez\Documents\Visual Studio 2012\Projects\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csprojResolveAssemblyReference.cache
+C:\Users\Sergio Gutierrez\Documents\Visual Studio 2012\Projects\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+C:\Users\Sergio Gutierrez\Documents\Visual Studio 2012\Projects\FireWarriors\FireWarriors\obj\Debug\FireWarriors.frmEsperandoConexion.resources
+C:\Users\Sergio Gutierrez\Documents\Visual Studio 2012\Projects\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+C:\Users\Sergio Gutierrez\Documents\Visual Studio 2012\Projects\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+C:\Users\Sergio Gutierrez\Dropbox\Carpeta Juego POO\Sergio\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\Sergio Gutierrez\Dropbox\Carpeta Juego POO\Sergio\FireWarriors\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\Sergio Gutierrez\Dropbox\Carpeta Juego POO\Sergio\FireWarriors\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\Sergio Gutierrez\Dropbox\Carpeta Juego POO\Sergio\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe
+C:\Users\Sergio Gutierrez\Dropbox\Carpeta Juego POO\Sergio\FireWarriors\FireWarriors\bin\Debug\FireWarriors.pdb
+C:\Users\Sergio Gutierrez\Dropbox\Carpeta Juego POO\Sergio\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csprojResolveAssemblyReference.cache
+C:\Users\Sergio Gutierrez\Dropbox\Carpeta Juego POO\Sergio\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+C:\Users\Sergio Gutierrez\Dropbox\Carpeta Juego POO\Sergio\FireWarriors\FireWarriors\obj\Debug\FireWarriors.frmEsperandoConexion.resources
+C:\Users\Sergio Gutierrez\Dropbox\Carpeta Juego POO\Sergio\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+C:\Users\Sergio Gutierrez\Dropbox\Carpeta Juego POO\Sergio\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Sergio\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Sergio\FireWarriors\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Sergio\FireWarriors\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Sergio\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Sergio\FireWarriors\FireWarriors\bin\Debug\FireWarriors.pdb
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Sergio\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Sergio\FireWarriors\FireWarriors\obj\Debug\FireWarriors.frmEsperandoConexion.resources
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Sergio\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Sergio\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Sergio\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csprojResolveAssemblyReference.cache
+C:\Users\Ariel\Desktop\Copia del juego de POO\Sergio\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\Ariel\Desktop\Copia del juego de POO\Sergio\FireWarriors\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\Ariel\Desktop\Copia del juego de POO\Sergio\FireWarriors\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\Ariel\Desktop\Copia del juego de POO\Sergio\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe
+C:\Users\Ariel\Desktop\Copia del juego de POO\Sergio\FireWarriors\FireWarriors\bin\Debug\FireWarriors.pdb
+C:\Users\Ariel\Desktop\Copia del juego de POO\Sergio\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+C:\Users\Ariel\Desktop\Copia del juego de POO\Sergio\FireWarriors\FireWarriors\obj\Debug\FireWarriors.frmEsperandoConexion.resources
+C:\Users\Ariel\Desktop\Copia del juego de POO\Sergio\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+C:\Users\Ariel\Desktop\Copia del juego de POO\Sergio\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors\FireWarriors\bin\Debug\FireWarriors.pdb
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors\FireWarriors\obj\Debug\FireWarriors.frmEsperandoConexion.resources
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+C:\Users\Ariel\Desktop\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\Ariel\Desktop\FireWarriors\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\Ariel\Desktop\FireWarriors\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\Ariel\Desktop\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe
+C:\Users\Ariel\Desktop\FireWarriors\FireWarriors\bin\Debug\FireWarriors.pdb
+C:\Users\Ariel\Desktop\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+C:\Users\Ariel\Desktop\FireWarriors\FireWarriors\obj\Debug\FireWarriors.frmEsperandoConexion.resources
+C:\Users\Ariel\Desktop\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+C:\Users\Ariel\Desktop\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+C:\Users\Sergio Gutierrez\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\Sergio Gutierrez\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\Sergio Gutierrez\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\Sergio Gutierrez\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe
+C:\Users\Sergio Gutierrez\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors\FireWarriors\bin\Debug\FireWarriors.pdb
+C:\Users\Sergio Gutierrez\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csprojResolveAssemblyReference.cache
+C:\Users\Sergio Gutierrez\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+C:\Users\Sergio Gutierrez\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors\FireWarriors\obj\Debug\FireWarriors.frmEsperandoConexion.resources
+C:\Users\Sergio Gutierrez\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+C:\Users\Sergio Gutierrez\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+C:\Users\NUEVO\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\NUEVO\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\NUEVO\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\Ariel\Desktop\Prototipos\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\Ariel\Desktop\Prototipos\FireWarriors\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\Ariel\Desktop\Prototipos\FireWarriors\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\usuario\Desktop\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\usuario\Desktop\FireWarriors\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\usuario\Desktop\FireWarriors\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\usuario\Desktop\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe
+C:\Users\usuario\Desktop\FireWarriors\FireWarriors\bin\Debug\FireWarriors.pdb
+C:\Users\usuario\Desktop\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+C:\Users\usuario\Desktop\FireWarriors\FireWarriors\obj\Debug\FireWarriors.frmEsperandoConexion.resources
+C:\Users\usuario\Desktop\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+C:\Users\usuario\Desktop\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+D:\ultimo\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe.config
+D:\ultimo\FireWarriors\FireWarriors\obj\Debug\FireWarriors.exe
+D:\ultimo\FireWarriors\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\Patty\Desktop\ultimo\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\Patty\Desktop\ultimo\FireWarriors\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\Patty\Desktop\ultimo\FireWarriors\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\Patty\Desktop\ultimo\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe
+C:\Users\Patty\Desktop\ultimo\FireWarriors\FireWarriors\bin\Debug\FireWarriors.pdb
+C:\Users\Patty\Desktop\ultimo\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csprojResolveAssemblyReference.cache
+C:\Users\Patty\Desktop\ultimo\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+C:\Users\Patty\Desktop\ultimo\FireWarriors\FireWarriors\obj\Debug\FireWarriors.frmEsperandoConexion.resources
+C:\Users\Patty\Desktop\ultimo\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+C:\Users\Patty\Desktop\ultimo\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+C:\Users\Sergio Gutierrez\Desktop\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\Sergio Gutierrez\Desktop\FireWarriors\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\Sergio Gutierrez\Desktop\FireWarriors\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\Sergio Gutierrez\Desktop\FireWarriors\FireWarriors\bin\Debug\FireWarriors.exe
+C:\Users\Sergio Gutierrez\Desktop\FireWarriors\FireWarriors\bin\Debug\FireWarriors.pdb
+C:\Users\Sergio Gutierrez\Desktop\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+C:\Users\Sergio Gutierrez\Desktop\FireWarriors\FireWarriors\obj\Debug\FireWarriors.frmEsperandoConexion.resources
+C:\Users\Sergio Gutierrez\Desktop\FireWarriors\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+C:\Users\Sergio Gutierrez\Desktop\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Sergio\FireWarriors (30-04-2014)\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Sergio\FireWarriors (30-04-2014)\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Sergio\FireWarriors (30-04-2014)\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Sergio\FireWarriors (30-04-2014)\FireWarriors\bin\Debug\FireWarriors.exe
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Sergio\FireWarriors (30-04-2014)\FireWarriors\bin\Debug\FireWarriors.pdb
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Sergio\FireWarriors (30-04-2014)\FireWarriors\obj\Debug\FireWarriors.csprojResolveAssemblyReference.cache
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Sergio\FireWarriors (30-04-2014)\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Sergio\FireWarriors (30-04-2014)\FireWarriors\obj\Debug\FireWarriors.frmEsperandoConexion.resources
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Sergio\FireWarriors (30-04-2014)\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\Sergio\FireWarriors (30-04-2014)\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+C:\Users\Ariel\Desktop\Nueva carpeta\Sergio\FireWarriors (30-04-2014)\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\Ariel\Desktop\Nueva carpeta\Sergio\FireWarriors (30-04-2014)\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\Ariel\Desktop\Nueva carpeta\Sergio\FireWarriors (30-04-2014)\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\Ariel\Desktop\Nueva carpeta\Sergio\FireWarriors (30-04-2014)\FireWarriors\bin\Debug\FireWarriors.exe
+C:\Users\Ariel\Desktop\Nueva carpeta\Sergio\FireWarriors (30-04-2014)\FireWarriors\bin\Debug\FireWarriors.pdb
+C:\Users\Ariel\Desktop\Nueva carpeta\Sergio\FireWarriors (30-04-2014)\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+C:\Users\Ariel\Desktop\Nueva carpeta\Sergio\FireWarriors (30-04-2014)\FireWarriors\obj\Debug\FireWarriors.frmEsperandoConexion.resources
+C:\Users\Ariel\Desktop\Nueva carpeta\Sergio\FireWarriors (30-04-2014)\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+C:\Users\Ariel\Desktop\Nueva carpeta\Sergio\FireWarriors (30-04-2014)\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors\FireWarriors\obj\Debug\FireWarriors.csprojResolveAssemblyReference.cache
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors(01-05-2014)\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors(01-05-2014)\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors(01-05-2014)\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors(01-05-2014)\FireWarriors\bin\Debug\FireWarriors.exe
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors(01-05-2014)\FireWarriors\bin\Debug\FireWarriors.pdb
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors(01-05-2014)\FireWarriors\obj\Debug\FireWarriors.csprojResolveAssemblyReference.cache
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors(01-05-2014)\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors(01-05-2014)\FireWarriors\obj\Debug\FireWarriors.frmEsperandoConexion.resources
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors(01-05-2014)\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors(01-05-2014)\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+C:\Users\NUEVO\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors(01-05-2014)\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\NUEVO\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors(01-05-2014)\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\NUEVO\Dropbox\Carpeta Juego POO\_Carpeta General\Prototipos\FireWarriors(01-05-2014)\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\Ariel\Desktop\Fire Warriors (Versión Final)\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\Ariel\Desktop\Fire Warriors (Versión Final)\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\Ariel\Desktop\Fire Warriors (Versión Final)\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\Ariel\Desktop\Fire Warriors (Versión Final)\FireWarriors\bin\Debug\FireWarriors.exe
+C:\Users\Ariel\Desktop\Fire Warriors (Versión Final)\FireWarriors\bin\Debug\FireWarriors.pdb
+C:\Users\Ariel\Desktop\Fire Warriors (Versión Final)\FireWarriors\obj\Debug\FireWarriors.csprojResolveAssemblyReference.cache
+C:\Users\Ariel\Desktop\Fire Warriors (Versión Final)\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+C:\Users\Ariel\Desktop\Fire Warriors (Versión Final)\FireWarriors\obj\Debug\FireWarriors.frmEsperandoConexion.resources
+C:\Users\Ariel\Desktop\Fire Warriors (Versión Final)\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+C:\Users\Ariel\Desktop\Fire Warriors (Versión Final)\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+C:\Users\Sergio Gutierrez\Dropbox\Carpeta Juego POO\_Carpeta General\Fire Warriors (Versión Final-Actualizacion 1)\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\Sergio Gutierrez\Dropbox\Carpeta Juego POO\_Carpeta General\Fire Warriors (Versión Final-Actualizacion 1)\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\Sergio Gutierrez\Dropbox\Carpeta Juego POO\_Carpeta General\Fire Warriors (Versión Final-Actualizacion 1)\FireWarriors\obj\Debug\FireWarriors.pdb
+E:\Fire Warriors (Versión Final-Actualizacion 1)\FireWarriors\bin\Debug\FireWarriors.exe.config
+E:\Fire Warriors (Versión Final-Actualizacion 1)\FireWarriors\obj\Debug\FireWarriors.exe
+E:\Fire Warriors (Versión Final-Actualizacion 1)\FireWarriors\obj\Debug\FireWarriors.pdb
+G:\Fire Warriors (Versión Final-Actualizacion 1)\FireWarriors\bin\Debug\FireWarriors.exe.config
+G:\Fire Warriors (Versión Final-Actualizacion 1)\FireWarriors\obj\Debug\FireWarriors.exe
+G:\Fire Warriors (Versión Final-Actualizacion 1)\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\usuario\Desktop\Fire Warriors (Versión Final-Actualizacion 1)(04-06)\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\usuario\Desktop\Fire Warriors (Versión Final-Actualizacion 1)(04-06)\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\usuario\Desktop\Fire Warriors (Versión Final-Actualizacion 1)(04-06)\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\usuario\Desktop\Fire Warriors (Versión Final-Actualizacion 1)(04-06)\FireWarriors\bin\Debug\FireWarriors.exe
+C:\Users\usuario\Desktop\Fire Warriors (Versión Final-Actualizacion 1)(04-06)\FireWarriors\bin\Debug\FireWarriors.pdb
+C:\Users\usuario\Desktop\Fire Warriors (Versión Final-Actualizacion 1)(04-06)\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+C:\Users\usuario\Desktop\Fire Warriors (Versión Final-Actualizacion 1)(04-06)\FireWarriors\obj\Debug\FireWarriors.frmEsperandoConexion.resources
+C:\Users\usuario\Desktop\Fire Warriors (Versión Final-Actualizacion 1)(04-06)\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+C:\Users\usuario\Desktop\Fire Warriors (Versión Final-Actualizacion 1)(04-06)\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Fire Warriors (V1.3)\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\usuario\Desktop\Fire Warriors (V1.3)\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\usuario\Desktop\Fire Warriors (V1.3)\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\usuario\Desktop\Fire Warriors (V1.3)\FireWarriors\bin\Debug\FireWarriors.exe
+C:\Users\usuario\Desktop\Fire Warriors (V1.3)\FireWarriors\bin\Debug\FireWarriors.pdb
+C:\Users\usuario\Desktop\Fire Warriors (V1.3)\FireWarriors\obj\Debug\FireWarriors.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Fire Warriors (V1.3)\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+C:\Users\usuario\Desktop\Fire Warriors (V1.3)\FireWarriors\obj\Debug\FireWarriors.frmEsperandoConexion.resources
+C:\Users\usuario\Desktop\Fire Warriors (V1.3)\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+C:\Users\usuario\Desktop\Fire Warriors (V1.3)\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+G:\Fire Warriors (V1.3)\FireWarriors\bin\Debug\FireWarriors.exe.config
+G:\Fire Warriors (V1.3)\FireWarriors\obj\Debug\FireWarriors.exe
+G:\Fire Warriors (V1.3)\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Fire Warriors (V1.3)\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Fire Warriors (V1.3)\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Fire Warriors (V1.3)\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Fire Warriors (V1.3)\FireWarriors\bin\Debug\FireWarriors.exe
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Fire Warriors (V1.3)\FireWarriors\bin\Debug\FireWarriors.pdb
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Fire Warriors (V1.3)\FireWarriors\obj\Debug\FireWarriors.csprojResolveAssemblyReference.cache
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Fire Warriors (V1.3)\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Fire Warriors (V1.3)\FireWarriors\obj\Debug\FireWarriors.frmEsperandoConexion.resources
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Fire Warriors (V1.3)\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+C:\Users\Ariel\Dropbox\Carpeta Juego POO\_Carpeta General\Fire Warriors (V1.3)\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+C:\Users\Sergio Gutierrez\Documents\Visual Studio 2012\Projects\Fire Warriors\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\Sergio Gutierrez\Documents\Visual Studio 2012\Projects\Fire Warriors\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\Sergio Gutierrez\Documents\Visual Studio 2012\Projects\Fire Warriors\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\Sergio Gutierrez\Documents\Visual Studio 2012\Projects\Fire Warriors\FireWarriors\obj\Debug\FireWarriors.csprojResolveAssemblyReference.cache
+C:\Users\Sergio Gutierrez\Documents\Visual Studio 2012\Projects\Fire Warriors\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+C:\Users\Sergio Gutierrez\Documents\Visual Studio 2012\Projects\Fire Warriors\FireWarriors\obj\Debug\FireWarriors.frmEsperandoConexion.resources
+C:\Users\Sergio Gutierrez\Documents\Visual Studio 2012\Projects\Fire Warriors\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+C:\Users\Sergio Gutierrez\Documents\Visual Studio 2012\Projects\Fire Warriors\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+C:\Users\Sergio Gutierrez\Documents\Visual Studio 2012\Projects\Fire Warriors\FireWarriors\bin\Debug\FireWarriors.exe
+C:\Users\Sergio Gutierrez\Documents\Visual Studio 2012\Projects\Fire Warriors\FireWarriors\bin\Debug\FireWarriors.pdb
+C:\Users\Sergio\Documents\Visual Studio 2012\Projects\Fire Warriors\FireWarriors\bin\Debug\FireWarriors.exe.config
+C:\Users\Sergio\Documents\Visual Studio 2012\Projects\Fire Warriors\FireWarriors\obj\Debug\FireWarriors.exe
+C:\Users\Sergio\Documents\Visual Studio 2012\Projects\Fire Warriors\FireWarriors\obj\Debug\FireWarriors.pdb
+C:\Users\Sergio\Documents\Visual Studio 2012\Projects\Fire Warriors\FireWarriors\bin\Debug\FireWarriors.exe
+C:\Users\Sergio\Documents\Visual Studio 2012\Projects\Fire Warriors\FireWarriors\bin\Debug\FireWarriors.pdb
+C:\Users\Sergio\Documents\Visual Studio 2012\Projects\Fire Warriors\FireWarriors\obj\Debug\FireWarriors.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Documents\Visual Studio 2012\Projects\Fire Warriors\FireWarriors\obj\Debug\FireWarriors.Form1.resources
+C:\Users\Sergio\Documents\Visual Studio 2012\Projects\Fire Warriors\FireWarriors\obj\Debug\FireWarriors.Properties.Resources.resources
+C:\Users\Sergio\Documents\Visual Studio 2012\Projects\Fire Warriors\FireWarriors\obj\Debug\FireWarriors.csproj.GenerateResource.Cache
+D:\FireWarriors SC\FireWarriors\bin\Debug\FireWarriors.exe.config
+D:\FireWarriors SC\FireWarriors\obj\Debug\FireWarriors.exe
+D:\FireWarriors SC\FireWarriors\obj\Debug\FireWarriors.pdb

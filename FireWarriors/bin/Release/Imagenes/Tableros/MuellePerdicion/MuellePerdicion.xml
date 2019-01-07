@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<board>
+	<piece id="AguaPlaya">AguaPlaya.png</piece>
+	<piece id="Muelle" default="true">Muelle.png</piece>
+	
+	<!-- Coordenadas Iniciales del Jugador de la Derecha -->
+	<coorder x="22" y="6" />
+	<coorder x="23" y="11" />
+	<coorder x="23" y="13" />
+	<coorder x="24" y="5" />
+	<coorder x="24" y="14" />
+	
+	<!-- Coordenadas Iniciales del Jugador de la Izquierda -->
+	<coorizq x="0" y="0" />
+	<coorizq x="1" y="1" />
+	<coorizq x="0" y="3" />
+	<coorizq x="1" y="7" />
+	<coorizq x="0" y="9" />
+	
+	<!-- Partes de AguaPlaya del Terreno -->
+	<box x="0" y="4" id="AguaPlaya" />
+	<box x="0" y="5" id="AguaPlaya" />
+	<box x="0" y="6" id="AguaPlaya" />
+	<box x="0" y="10" id="AguaPlaya" />
+	<box x="0" y="11" id="AguaPlaya" />
+	<box x="0" y="12" id="AguaPlaya" />
+	<box x="0" y="13" id="AguaPlaya" />
+	<box x="0" y="14" id="AguaPlaya" />
+	<box x="1" y="4" id="AguaPlaya" />
+	<box x="1" y="5" id="AguaPlaya" />
+	<box x="1" y="6" id="AguaPlaya" />
+	<box x="1" y="10" id="AguaPlaya" />
+	<box x="1" y="11" id="AguaPlaya" />
+	<box x="1" y="12" id="AguaPlaya" />
+	<box x="1" y="13" id="AguaPlaya" />
+	<box x="1" y="14" id="AguaPlaya" />
+	<box x="2" y="0" id="AguaPlaya" />
+	<box x="2" y="1" id="AguaPlaya" />
+	<box x="2" y="4" id="AguaPlaya" />
+	<box x="2" y="5" id="AguaPlaya" />
+	<box x="2" y="6" id="AguaPlaya" />
+	<box x="2" y="8" id="AguaPlaya" />
+	<box x="2" y="9" id="AguaPlaya" />
+	<box x="2" y="10" id="AguaPlaya" />
+	<box x="2" y="11" id="AguaPlaya" />
+	<box x="2" y="12" id="AguaPlaya" />
+	<box x="2" y="13" id="AguaPlaya" />
+	<box x="2" y="14" id="AguaPlaya" />
+	<box x="3" y="0" id="AguaPlaya" />
+	<box x="3" y="1" id="AguaPlaya" />
+	<box x="3" y="4" id="AguaPlaya" />
+	<box x="3" y="5" id="AguaPlaya" />
+	<box x="3" y="6" id="AguaPlaya" />
+	<box x="3" y="8" id="AguaPlaya" />
+	<box x="3" y="9" id="AguaPlaya" />
+	<box x="3" y="10" id="AguaPlaya" />
+	<box x="3" y="11" id="AguaPlaya" />
+	<box x="4" y="0" id="AguaPlaya" />
+	<box x="4" y="1" id="AguaPlaya" />
+	<box x="5" y="0" id="AguaPlaya" />
+	<box x="5" y="1" id="AguaPlaya" />
+	<box x="5" y="4" id="AguaPlaya" />
+	<box x="5" y="5" id="AguaPlaya" />
+	<box x="5" y="6" id="AguaPlaya" />
+	<box x="5" y="9" id="AguaPlaya" />
+	<box x="5" y="11" id="AguaPlaya" />
+	<box x="6" y="0" id="AguaPlaya" />
+	<box x="6" y="1" id="AguaPlaya" />
+	<box x="6" y="4" id="AguaPlaya" />
+	<box x="6" y="5" id="AguaPlaya" />
+	<box x="6" y="6" id="AguaPlaya" />
+	<box x="6" y="9" id="AguaPlaya" />
+	<box x="6" y="11" id="AguaPlaya" />
+	<box x="7" y="0" id="AguaPlaya" />
+	<box x="7" y="1" id="AguaPlaya" />
+	<box x="7" y="4" id="AguaPlaya" />
+	<box x="7" y="5" id="AguaPlaya" />
+	<box x="7" y="6" id="AguaPlaya" />
+	<box x="7" y="9" id="AguaPlaya" />
+	<box x="7" y="11" id="AguaPlaya" />
+	<box x="7" y="12" id="AguaPlaya" />
+	<box x="7" y="14" id="AguaPlaya" />
+	<box x="8" y="4" id="AguaPlaya" />
+	<box x="8" y="5" id="AguaPlaya" />
+	<box x="8" y="6" id="AguaPlaya" />
+	<box x="8" y="9" id="AguaPlaya" />
+	<box x="8" y="11" id="AguaPlaya" />
+	<box x="8" y="12" id="AguaPlaya" />
+	<box x="8" y="14" id="AguaPlaya" />
+	<box x="9" y="4" id="AguaPlaya" />
+	<box x="9" y="5" id="AguaPlaya" />
+	<box x="9" y="6" id="AguaPlaya" />
+	<box x="9" y="9" id="AguaPlaya" />
+	<box x="9" y="11" id="AguaPlaya" />
+	<box x="9" y="12" id="AguaPlaya" />
+	<box x="9" y="14" id="AguaPlaya" />
+	<box x="10" y="4" id="AguaPlaya" />
+	<box x="10" y="5" id="AguaPlaya" />
+	<box x="10" y="6" id="AguaPlaya" />
+	<box x="10" y="9" id="AguaPlaya" />
+	<box x="10" y="11" id="AguaPlaya" />
+	<box x="10" y="12" id="AguaPlaya" />
+	<box x="10" y="14" id="AguaPlaya" />
+	<box x="11" y="9" id="AguaPlaya" />
+	<box x="11" y="11" id="AguaPlaya" />
+	<box x="11" y="12" id="AguaPlaya" />
+	<box x="11" y="14" id="AguaPlaya" />
+	<box x="12" y="9" id="AguaPlaya" />
+	<box x="12" y="11" id="AguaPlaya" />
+	<box x="12" y="12" id="AguaPlaya" />
+	<box x="12" y="14" id="AguaPlaya" />
+	<box x="13" y="4" id="AguaPlaya" />
+	<box x="13" y="5" id="AguaPlaya" />
+	<box x="13" y="6" id="AguaPlaya" />
+	<box x="13" y="9" id="AguaPlaya" />
+	<box x="13" y="11" id="AguaPlaya" />
+	<box x="13" y="12" id="AguaPlaya" />
+	<box x="13" y="14" id="AguaPlaya" />
+	<box x="14" y="4" id="AguaPlaya" />
+	<box x="14" y="5" id="AguaPlaya" />
+	<box x="14" y="6" id="AguaPlaya" />
+	<box x="14" y="9" id="AguaPlaya" />
+	<box x="14" y="11" id="AguaPlaya" />
+	<box x="14" y="12" id="AguaPlaya" />
+	<box x="14" y="14" id="AguaPlaya" />
+	<box x="15" y="4" id="AguaPlaya" />
+	<box x="15" y="5" id="AguaPlaya" />
+	<box x="15" y="6" id="AguaPlaya" />
+	<box x="15" y="9" id="AguaPlaya" />
+	<box x="15" y="11" id="AguaPlaya" />
+	<box x="15" y="12" id="AguaPlaya" />
+	<box x="15" y="14" id="AguaPlaya" />
+	<box x="16" y="4" id="AguaPlaya" />
+	<box x="16" y="5" id="AguaPlaya" />
+	<box x="16" y="6" id="AguaPlaya" />
+	<box x="17" y="0" id="AguaPlaya" />
+	<box x="17" y="1" id="AguaPlaya" />
+	<box x="17" y="2" id="AguaPlaya" />
+	<box x="17" y="3" id="AguaPlaya" />
+	<box x="17" y="4" id="AguaPlaya" />
+	<box x="17" y="5" id="AguaPlaya" />
+	<box x="17" y="6" id="AguaPlaya" />
+	<box x="17" y="9" id="AguaPlaya" />
+	<box x="17" y="10" id="AguaPlaya" />
+	<box x="17" y="11" id="AguaPlaya" />
+	<box x="17" y="12" id="AguaPlaya" />
+	<box x="18" y="0" id="AguaPlaya" />
+	<box x="18" y="1" id="AguaPlaya" />
+	<box x="18" y="2" id="AguaPlaya" />
+	<box x="18" y="3" id="AguaPlaya" />
+	<box x="18" y="4" id="AguaPlaya" />
+	<box x="18" y="5" id="AguaPlaya" />
+	<box x="18" y="6" id="AguaPlaya" />
+	<box x="18" y="9" id="AguaPlaya" />
+	<box x="18" y="10" id="AguaPlaya" />
+	<box x="18" y="11" id="AguaPlaya" />
+	<box x="18" y="12" id="AguaPlaya" />
+	<box x="20" y="2" id="AguaPlaya" />
+	<box x="20" y="3" id="AguaPlaya" />
+	<box x="20" y="4" id="AguaPlaya" />
+	<box x="20" y="6" id="AguaPlaya" />
+	<box x="20" y="7" id="AguaPlaya" />
+	<box x="20" y="8" id="AguaPlaya" />
+	<box x="20" y="9" id="AguaPlaya" />
+	<box x="20" y="10" id="AguaPlaya" />
+	<box x="20" y="11" id="AguaPlaya" />
+	<box x="20" y="12" id="AguaPlaya" />
+	<box x="21" y="0" id="AguaPlaya" />
+	<box x="21" y="1" id="AguaPlaya" />
+	<box x="21" y="2" id="AguaPlaya" />
+	<box x="21" y="3" id="AguaPlaya" />
+	<box x="21" y="4" id="AguaPlaya" />
+	<box x="21" y="6" id="AguaPlaya" />
+	<box x="21" y="7" id="AguaPlaya" />
+	<box x="21" y="8" id="AguaPlaya" />
+	<box x="21" y="9" id="AguaPlaya" />
+	<box x="21" y="10" id="AguaPlaya" />
+	<box x="21" y="11" id="AguaPlaya" />
+	<box x="21" y="12" id="AguaPlaya" />
+	<box x="22" y="0" id="AguaPlaya" />
+	<box x="22" y="1" id="AguaPlaya" />
+	<box x="22" y="2" id="AguaPlaya" />
+	<box x="22" y="3" id="AguaPlaya" />
+	<box x="22" y="4" id="AguaPlaya" />
+	<box x="23" y="0" id="AguaPlaya" />
+	<box x="23" y="1" id="AguaPlaya" />
+	<box x="23" y="2" id="AguaPlaya" />
+	<box x="23" y="3" id="AguaPlaya" />
+	<box x="23" y="4" id="AguaPlaya" />
+	<box x="24" y="0" id="AguaPlaya" />
+	<box x="24" y="1" id="AguaPlaya" />
+	<box x="24" y="2" id="AguaPlaya" />
+	<box x="24" y="3" id="AguaPlaya" />
+	<box x="24" y="4" id="AguaPlaya" />
+	<box x="24" y="7" id="AguaPlaya" />
+	<box x="24" y="8" id="AguaPlaya" />
+	<box x="24" y="9" id="AguaPlaya" />
+	<box x="24" y="10" id="AguaPlaya" />
+	<box x="24" y="11" id="AguaPlaya" />
+	<box x="24" y="12" id="AguaPlaya" />
+</board>

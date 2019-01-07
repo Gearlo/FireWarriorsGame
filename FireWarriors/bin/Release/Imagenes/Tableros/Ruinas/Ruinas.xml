@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<board>
+	<piece id="Arena" default="true">Arena.png</piece>
+	<piece id="PlantaArena">PlantaArena.png</piece>
+	<piece id="Ruina">Ruina.png</piece>
+	
+	<!-- Coordenadas Iniciales del Jugador de la Derecha -->
+	<coorder x="22" y="11" />
+	<coorder x="22" y="13" />
+	<coorder x="23" y="1" />
+	<coorder x="23" y="9" />
+	<coorder x="24" y="7" />
+	
+	<!-- Coordenadas Iniciales del Jugador de la Izquierda -->
+	<coorizq x="0" y="7" />
+	<coorizq x="1" y="5" />
+	<coorizq x="1" y="10" />
+	<coorizq x="5" y="2" />
+	<coorizq x="6" y="11" />
+	
+	<!-- Partes de PlantaArena del Terreno -->
+	<box x="1" y="1" id="PlantaArena" />
+	<box x="7" y="11" id="PlantaArena" />
+	<box x="7" y="12" id="PlantaArena" />
+	<box x="8" y="11" id="PlantaArena" />
+	<box x="8" y="12" id="PlantaArena" />
+	<box x="9" y="2" id="PlantaArena" />
+	<box x="16" y="3" id="PlantaArena" />
+	<box x="18" y="12" id="PlantaArena" />
+	<box x="22" y="12" id="PlantaArena" />
+	
+	<!-- Partes de Ruina del Terreno -->
+	<box x="2" y="8" id="Ruina" />
+	<box x="2" y="9" id="Ruina" />
+	<box x="2" y="10" id="Ruina" />
+	<box x="2" y="11" id="Ruina" />
+	<box x="2" y="12" id="Ruina" />
+	<box x="2" y="13" id="Ruina" />
+	<box x="2" y="14" id="Ruina" />
+	<box x="3" y="0" id="Ruina" />
+	<box x="3" y="1" id="Ruina" />
+	<box x="3" y="2" id="Ruina" />
+	<box x="3" y="3" id="Ruina" />
+	<box x="3" y="4" id="Ruina" />
+	<box x="3" y="8" id="Ruina" />
+	<box x="3" y="9" id="Ruina" />
+	<box x="3" y="10" id="Ruina" />
+	<box x="3" y="11" id="Ruina" />
+	<box x="3" y="12" id="Ruina" />
+	<box x="3" y="13" id="Ruina" />
+	<box x="3" y="14" id="Ruina" />
+	<box x="4" y="8" id="Ruina" />
+	<box x="4" y="9" id="Ruina" />
+	<box x="4" y="10" id="Ruina" />
+	<box x="4" y="11" id="Ruina" />
+	<box x="4" y="12" id="Ruina" />
+	<box x="4" y="13" id="Ruina" />
+	<box x="4" y="14" id="Ruina" />
+	<box x="5" y="4" id="Ruina" />
+	<box x="5" y="8" id="Ruina" />
+	<box x="6" y="4" id="Ruina" />
+	<box x="6" y="8" id="Ruina" />
+	<box x="7" y="0" id="Ruina" />
+	<box x="7" y="1" id="Ruina" />
+	<box x="7" y="2" id="Ruina" />
+	<box x="7" y="3" id="Ruina" />
+	<box x="7" y="4" id="Ruina" />
+	<box x="7" y="8" id="Ruina" />
+	<box x="8" y="8" id="Ruina" />
+	<box x="10" y="8" id="Ruina" />
+	<box x="11" y="0" id="Ruina" />
+	<box x="11" y="1" id="Ruina" />
+	<box x="11" y="2" id="Ruina" />
+	<box x="11" y="3" id="Ruina" />
+	<box x="11" y="4" id="Ruina" />
+	<box x="11" y="5" id="Ruina" />
+	<box x="11" y="8" id="Ruina" />
+	<box x="11" y="9" id="Ruina" />
+	<box x="11" y="10" id="Ruina" />
+	<box x="11" y="11" id="Ruina" />
+	<box x="11" y="12" id="Ruina" />
+	<box x="11" y="13" id="Ruina" />
+	<box x="11" y="14" id="Ruina" />
+	<box x="12" y="0" id="Ruina" />
+	<box x="12" y="1" id="Ruina" />
+	<box x="12" y="2" id="Ruina" />
+	<box x="12" y="3" id="Ruina" />
+	<box x="12" y="4" id="Ruina" />
+	<box x="12" y="5" id="Ruina" />
+	<box x="13" y="2" id="Ruina" />
+	<box x="14" y="6" id="Ruina" />
+	<box x="14" y="7" id="Ruina" />
+	<box x="14" y="8" id="Ruina" />
+	<box x="14" y="9" id="Ruina" />
+	<box x="14" y="10" id="Ruina" />
+	<box x="14" y="11" id="Ruina" />
+	<box x="14" y="12" id="Ruina" />
+	<box x="14" y="13" id="Ruina" />
+	<box x="14" y="14" id="Ruina" />
+	<box x="15" y="6" id="Ruina" />
+	<box x="15" y="7" id="Ruina" />
+	<box x="15" y="8" id="Ruina" />
+	<box x="15" y="9" id="Ruina" />
+	<box x="15" y="10" id="Ruina" />
+	<box x="15" y="11" id="Ruina" />
+	<box x="15" y="12" id="Ruina" />
+	<box x="15" y="13" id="Ruina" />
+	<box x="15" y="14" id="Ruina" />
+	<box x="16" y="6" id="Ruina" />
+	<box x="16" y="7" id="Ruina" />
+	<box x="16" y="10" id="Ruina" />
+	<box x="17" y="1" id="Ruina" />
+	<box x="17" y="2" id="Ruina" />
+	<box x="17" y="3" id="Ruina" />
+	<box x="17" y="6" id="Ruina" />
+	<box x="17" y="7" id="Ruina" />
+	<box x="17" y="10" id="Ruina" />
+	<box x="18" y="3" id="Ruina" />
+	<box x="18" y="10" id="Ruina" />
+	<box x="19" y="3" id="Ruina" />
+	<box x="19" y="10" id="Ruina" />
+	<box x="20" y="3" id="Ruina" />
+	<box x="21" y="0" id="Ruina" />
+	<box x="21" y="1" id="Ruina" />
+	<box x="21" y="3" id="Ruina" />
+	<box x="21" y="6" id="Ruina" />
+	<box x="21" y="7" id="Ruina" />
+	<box x="21" y="8" id="Ruina" />
+	<box x="22" y="3" id="Ruina" />
+	<box x="22" y="6" id="Ruina" />
+	<box x="23" y="3" id="Ruina" />
+	<box x="23" y="6" id="Ruina" />
+	<box x="24" y="3" id="Ruina" />
+	<box x="24" y="6" id="Ruina" />
+</board>

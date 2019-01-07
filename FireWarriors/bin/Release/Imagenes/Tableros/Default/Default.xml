@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<board>
+	<piece id="Agua">Agua.png</piece>
+	<piece id="Arbusto">Arbusto.png</piece>
+	<piece id="Grama" default="true">Grama.png</piece>
+	<piece id="Piedra">Piedra.png</piece>
+	
+	<!-- Coordenadas Iniciales del Jugador de la Derecha -->
+	<coorder x="23" y="5" />
+	<coorder x="23" y="7" />
+	<coorder x="23" y="9" />
+	<coorder x="22" y="6" />
+	<coorder x="22" y="8" />
+	
+	<!-- Coordenadas Iniciales del Jugador de la Izquierda -->
+	<coorizq x="0" y="0" />
+	<coorizq x="0" y="2" />
+	<coorizq x="0" y="4" />
+	<coorizq x="2" y="1" />
+	<coorizq x="2" y="3" />
+	
+	<!-- Partes de Agua del Terreno -->
+	<box x="5" y="4" id="Agua" />
+	<box x="5" y="5" id="Agua" />
+	<box x="5" y="6" id="Agua" />
+	<box x="6" y="4" id="Agua" />
+	<box x="6" y="5" id="Agua" />
+	<box x="7" y="4" id="Agua" />
+	<box x="17" y="14" id="Agua" />
+	<box x="18" y="13" id="Agua" />
+	<box x="18" y="14" id="Agua" />
+	<box x="18" y="14" id="Agua" />
+	<box x="19" y="12" id="Agua" />
+	<box x="19" y="13" id="Agua" />
+	<box x="19" y="14" id="Agua" />
+	<box x="20" y="12" id="Agua" />
+	<box x="20" y="13" id="Agua" />
+	
+	<!-- Partes de Arbusto del Terreno -->
+	<box x="5" y="14" id="Arbusto" />
+	<box x="6" y="14" id="Arbusto" />
+	<box x="7" y="5" id="Arbusto" />
+	<box x="8" y="1" id="Arbusto" />
+	<box x="8" y="4" id="Arbusto" />
+	<box x="9" y="10" id="Arbusto" />
+	<box x="10" y="9" id="Arbusto" />
+	<box x="10" y="10" id="Arbusto" />
+	<box x="10" y="11" id="Arbusto" />
+	<box x="11" y="10" id="Arbusto" />
+	<box x="12" y="12" id="Arbusto" />
+	<box x="13" y="10" id="Arbusto" />
+	<box x="21" y="12" id="Arbusto" />
+	<box x="22" y="13" id="Arbusto" />
+	<box x="22" y="1" id="Arbusto" />
+	<box x="23" y="4" id="Arbusto" />
+	<box x="23" y="14" id="Arbusto" />
+	<box x="24" y="2" id="Arbusto" />
+	
+	<!-- Partes de Piedra del Terreno -->
+	<box x="2" y="10" id="Piedra" />
+	<box x="5" y="2" id="Piedra" />
+	<box x="6" y="12" id="Piedra" />
+	<box x="13" y="8" id="Piedra" />
+	<box x="15" y="10" id="Piedra" />
+	<box x="17" y="0" id="Piedra" />
+	<box x="18" y="0" id="Piedra" />
+	<box x="18" y="1" id="Piedra" />
+	<box x="19" y="0" id="Piedra" />
+	<box x="19" y="1" id="Piedra" />
+	<box x="19" y="2" id="Piedra" />
+	<box x="20" y="0" id="Piedra" />
+	<box x="20" y="1" id="Piedra" />
+	<box x="21" y="0" id="Piedra" />
+	<box x="24" y="7" id="Piedra" />
+</board>
