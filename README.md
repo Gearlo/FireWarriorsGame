@@ -1,6 +1,10 @@
 # Fire Warriors Game
 Mini tacticar RPG Lan game for 2 players. **not made in Unity**.
 
+Created By:
+ * Gerardo Rivera López
+ * Sergio Gutiérrez Andrade
+
 Rules:
   * It's a turn-based game
   * Each player starts with 5 characters
